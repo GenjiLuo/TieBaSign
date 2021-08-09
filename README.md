@@ -6,6 +6,8 @@
 
 ## 使用说明
 
+( 每日最佳签到时间 ： 9:00-16:00  19:00-22:00 )
+
 1. Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加一个库秘密变量。其中 `BDUSS` 存放你的 BDUSS。支持同时添加多个帐户，BDUSS 之间用 `#` 隔开即可。
 
 ![添加库秘密变量](/img/new_repository_secret.png)
